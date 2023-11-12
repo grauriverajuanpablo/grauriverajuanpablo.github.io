@@ -1,6 +1,7 @@
 # grauriverajuanpablo.github.io
 
-se modifica title en repositorio de Paula
+se modifica style backgrount-image en repositorio de Paula
+https://github.com/grauriverajuanpablo/Paula109.github.io
 
-Paula109.github.io
+
 
